@@ -8,4 +8,4 @@
 <br>
 
 - This repository contains solutions to **Programmers** coding test problems and is automatically committed and pushed using **BaekjoonHub**.
-= Language used: **C#**
+- Language used: **C#**
