@@ -1,11 +1,9 @@
-# 📁 Programmers
+# 프로그래머스 문제 풀이
 
-프로그래머스 문제 풀이를 모아둔 저장소입니다.  
-**BaekjoonHub**를 통해 자동으로 커밋 및 푸시됩니다.  
-작성 언어는 **C#**입니다.
+이 저장소는 **프로그래머스** 코딩테스트 문제 풀이를 모아두었으며, **BaekjoonHub**을 통해 자동 커밋 및 푸시됩니다.
+사용 언어: **C#**
 
 ---
 
-This repository contains my solutions to coding problems from **Programmers**.  
-All submissions are automatically committed and pushed using **BaekjoonHub**.  
-The main language used is **C#**.
+This repository contains solutions to **Programmers** coding test problems and is automatically committed and pushed using **BaekjoonHub**.
+Language used: **C#**
